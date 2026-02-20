@@ -1,0 +1,14 @@
+# PyCharm
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+
+# Exports
+export/
+*.csv
+
+# Virtual env
+.venv/
