@@ -9,7 +9,7 @@ DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "expense_exam"
 DB_USER = "postgres"
-DB_PASSWORD = "10072012tima"
+DB_PASSWORD = "your_password"
 
 
 # ---------- DB ----------
