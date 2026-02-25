@@ -1,4 +1,9 @@
+from logger_config import setup_logging
+import logging
 
+setup_logging()
+logger = logging.getLogger(__name__)
+logger.info("App started")
 
 from db import init_db
 from categories import categories_menu
